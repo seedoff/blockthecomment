@@ -1,3 +1,9 @@
+[Adblock Plus 1.1]
+! Title: Adblock list for comment from Korean news site based on naver
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/seedoff/blockthecomment
+
+
 ! 4/23/2018, 8:11:28 AM http://news.naver.com/main/hotissue/read.nhn?mid=hot&sid1=101&cid=1076694&iid=1287629&oid=001&aid=0010040491&ptype=052
 news.naver.com##.u_cbox
 
