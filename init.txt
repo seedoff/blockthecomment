@@ -1,0 +1,177 @@
+! 4/23/2018, 8:11:28 AM http://news.naver.com/main/hotissue/read.nhn?mid=hot&sid1=101&cid=1076694&iid=1287629&oid=001&aid=0010040491&ptype=052
+news.naver.com##.u_cbox
+
+
+! 4/23/2018, 8:18:11 AM http://v.media.daum.net/v/20180423080613011
+v.media.daum.net##.\#comment.wrap_alex
+
+! 4/23/2018, 8:19:22 AM http://news.nate.com/view/20180423n01910
+||comm.news.nate.com/Comment/ArticleComment/List?artc_sq=*$subdocument
+
+! 4/23/2018, 8:20:34 AM http://news.chosun.com/site/data/html_dir/2018/04/23/2018042300223.html
+news.chosun.com###news_comment_id
+
+! 4/23/2018, 8:21:36 AM http://www.yonhapnews.co.kr/bulletin/2018/04/23/0200000000AKR20180423023200053.HTML?input=1195m
+www.yonhapnews.co.kr###liverePlugIn
+
+! 4/23/2018, 8:53:24 AM http://news.donga.com/Main/3/all/20180423/89743473/1#replyLayer
+news.donga.com##.reply_box
+
+! 4/23/2018, 8:54:33 AM http://news.joins.com/article/22558867?cloc=joongang|home|newslist1big
+news.joins.com###comment
+
+! 4/23/2018, 8:55:11 AM http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201804222253015&code=910303
+news.khan.co.kr###liverePlugIn
+
+! 4/23/2018, 8:55:49 AM http://news.mk.co.kr/newsRead.php?year=2018&no=256487
+news.mk.co.kr##.reple_box:nth-of-type(4)
+
+! 4/23/2018, 8:56:44 AM http://www.hani.co.kr/arti/politics/defense/841567.html
+www.hani.co.kr##.reply-box
+
+! 4/23/2018, 8:57:28 AM http://www.munhwa.com/news/view.html?no=20180421MW141446703544
+www.munhwa.com###liverePlugIn
+
+! 4/23/2018, 8:58:37 AM http://www.seoul.co.kr/news/newsView.php?id=20180423001010&wlog_tag3=naver
+||www.seoul.co.kr/news/getLivereSns.php?id=*$subdocument
+
+! 4/24/2018, 8:04:53 AM http://www.dt.co.kr/contents.html?article_no=2018042302109957045002&ref=naver
+www.dt.co.kr##.subSct
+
+! 4/24/2018, 11:46:05 AM http://www.sjsori.com/news/articleView.html?idxno=18797
+www.sjsori.com###article-reply
+
+! 4/24/2018, 1:06:36 PM http://www.hankookilbo.com/v/66d217280421476580d638e681d1e915
+www.hankookilbo.com##.reply > .inCon
+
+! 4/24/2018, 1:07:15 PM http://www.hani.co.kr/arti/economy/economy_general/841786.html
+www.hani.co.kr##.type2.kisa-sponsor-area
+
+! 4/24/2018, 1:08:10 PM http://www.seoul.co.kr/news/newsView.php?id=20180424001045&wlog_tag3=naver
+www.seoul.co.kr##.v_sns
+
+! 4/24/2018, 1:09:06 PM http://news.tvchosun.com/site/data/html_dir/2018/04/24/2018042490086.html
+news.tvchosun.com###contents
+
+! 4/24/2018, 1:10:32 PM https://news.sbs.co.kr/news/endPage.do?news_id=N1004727712&plink=ORI&cooper=NAVER
+news.sbs.co.kr###liverePlugIn
+
+! 4/24/2018, 1:10:52 PM http://sbscnbc.sbs.co.kr/read.jsp?pmArticleId=10000899815
+sbscnbc.sbs.co.kr##.md_commt_write_w
+
+! 4/24/2018, 1:11:54 PM http://star.mbn.co.kr/view.php?year=2018&no=260736&refer=portal
+||101.livere.co.kr/images/ver8/livere8_pattern.png$image
+
+! 4/24/2018, 1:14:11 PM http://imnews.imbc.com/news/2018/society/article/4588219_22673.html
+imnews.imbc.com###news_content_1 > .viewcont > .cont > .foot
+imnews.imbc.com###news_content_2 > .viewcont > .cont > .foot
+imnews.imbc.com###news_content_3 > .viewcont > .cont > .foot
+imnews.imbc.com###news_content_4 > .viewcont > .cont > .foot
+imnews.imbc.com###news_content_5 > .viewcont > .cont > .foot
+imnews.imbc.com###news_content_6 > .viewcont > .cont > .foot
+
+! 4/24/2018, 1:16:55 PM http://news.kbs.co.kr/news/view.do?ncd=3639356&ref=A
+news.kbs.co.kr###liverePlugIn
+
+! 4/24/2018, 1:17:25 PM http://news.jtbc.joins.com/html/651/NB11623651.html
+news.jtbc.joins.com###divComment
+
+! 4/24/2018, 1:17:35 PM http://news.jtbc.joins.com/html/651/NB11623651.html
+news.jtbc.joins.com##.article_footer_v2.article_footer
+
+! 4/24/2018, 1:18:05 PM http://news.wowtv.co.kr/NewsCenter/News/Read?articleId=A201804240375&t=NN
+news.wowtv.co.kr###divComment
+
+! 4/24/2018, 1:18:55 PM http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000090327
+||livere.me/comment/channela$subdocument
+
+! 4/24/2018, 1:19:58 PM http://www.newsis.com/view/?id=NISI20180424_0014020674
+www.newsis.com###liverePlugIn
+
+! 4/24/2018, 1:20:35 PM http://news1.kr/articles/?3298845&netizen
+||livere.me/comment/news1*$subdocument
+
+! 4/24/2018, 4:21:47 PM http://news.mt.co.kr/mtview.php?no=2018042315385431484&vgb=autom#
+news.mt.co.kr###r_cnt_section
+
+! 4/24/2018, 4:21:58 PM http://news.mt.co.kr/mtview.php?no=2018042315385431484&vgb=autom#
+news.mt.co.kr##.mt_sreply_write
+
+! 4/24/2018, 4:22:33 PM http://www.sedaily.com/NewsView/1RYDBX40ON
+||livere.me/comment/*$subdocument
+||livere.me/comment/*
+
+! 4/24/2018, 4:24:22 PM http://biz.chosun.com/site/data/html_dir/2018/04/24/2018042402070.html
+biz.chosun.com##.sec_con
+
+! 4/24/2018, 4:24:45 PM http://m100.chosun.com/svc/guest//list.html?flag=json&article=2018042402070&title=%uC5D4%uC528%uC18C%uD504%uD2B8%2C%202018%uB144%20%uD558%uACC4%20%uC778%uD134%uC0AC%uC6D0%20%uACF5%uAC1C%20%uBAA8%uC9D1&artcode_dir1=dirname&artcode_id=1CD&art_site=CHOSUNBIZ&artbbs_site=CHOSUNBIZ
+m100.chosun.com##.sec_con
+
+! 4/24/2018, 4:25:37 PM http://www.fnnews.com/news/201804231722268327
+||www.facebook.com/plugins/comments.php?*$subdocument
+
+! 4/24/2018, 4:26:14 PM http://news.hankyung.com/article/2018042300301
+news.hankyung.com##.btn_reply
+
+! 4/24/2018, 4:27:46 PM http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002427751&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news#dvOpinion
+star.ohmynews.com###liverePlugIn
+
+! 4/24/2018, 4:28:13 PM http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=142381
+www.mediatoday.co.kr##.reply_box
+
+! 4/24/2018, 4:29:31 PM http://www.zdnet.co.kr/news/news_view.asp?artice_id=20180424154638&type=det&re=
+www.zdnet.co.kr###liverePlugIn
+
+! 4/24/2018, 4:30:19 PM http://www.bloter.net/archives/308623
+www.bloter.net##.collapsed.denim-expander
+
+! 4/24/2018, 4:32:34 PM http://h21.hani.co.kr/arti/cover/cover_general/45235.html
+h21.hani.co.kr###liverePlugIn
+
+! 4/24/2018, 4:33:04 PM http://weekly.chosun.com/client/news/viw.asp?nNewsNumb=002504100000&ctcd=C02
+||weekly.chosun.com/images/box_memo_login.gif$image
+
+! 4/24/2018, 4:33:20 PM http://weekly.donga.com/3/all/11/1292390/1
+weekly.donga.com##.spinTopLayerWriteBox
+
+! 4/24/2018, 4:33:42 PM http://weekly.khan.co.kr/khnm.html?mode=view&code=113&artid=201804161447011&pt=nv
+weekly.khan.co.kr###liverePlugIn
+
+! 4/24/2018, 4:34:14 PM http://san.chosun.com/site/data/html_dir/2018/03/29/2018032902565.html
+san.chosun.com###news_comment_id
+
+! 4/24/2018, 4:34:47 PM http://www.sisajournal.com/journal/article/174986
+www.sisajournal.com###comment-wrap-index
+
+! 4/24/2018, 4:35:20 PM http://news.mk.co.kr/v2/economy/view.php?year=2018&no=260037
+news.mk.co.kr###liverePlugIn
+
+! 4/24/2018, 4:36:33 PM http://health.chosun.com/site/data/html_dir/2018/04/24/2018042401825.html
+health.chosun.com###news_comment_id
+
+! 4/24/2018, 4:36:56 PM http://www.kormedi.com/news/article/1227006_2892.html
+www.kormedi.com##.reply
+
+! 4/24/2018, 4:37:22 PM http://www.newscham.net/news/view.php?board=news&nid=103147
+www.newscham.net###comment_write
+
+! 4/24/2018, 4:38:16 PM http://www.ildaro.com/sub_read.html?uid=8185&section=sc84
+www.ildaro.com###contents_wrap_sub2 > table:nth-of-type(3) > tbody > tr:nth-of-type(2) > td > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td
+
+! 4/24/2018, 4:39:08 PM http://dongascience.donga.com/news/view/22199
+dongascience.donga.com###opinion_write
+
+! 4/24/2018, 4:40:02 PM http://www.korea.kr/policy/cultureView.do?newsId=148850117&call_from=naver_news
+www.korea.kr##.livere_box
+
+! 4/24/2018, 4:40:30 PM http://news20.busan.com/controller/newsController.jsp?newsId=20180424000172
+news20.busan.com###news_write
+
+! 4/24/2018, 4:40:57 PM http://www.imaeil.com/sub_news/sub_news_view.php?news_id=17348&yy=2018
+||101.livere.co.kr/images/ver8/livere8_pattern.png$image
+
+! 4/24/2018, 4:41:05 PM http://www.imaeil.com/sub_news/sub_news_view.php?news_id=17348&yy=2018
+www.imaeil.com###livereWriteForm
+
+! 4/24/2018, 4:41:27 PM http://www.kwnews.co.kr/nview.asp?s=501&aid=218042300018
+www.kwnews.co.kr###regianswer > div
