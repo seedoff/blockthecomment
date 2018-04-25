@@ -8,12 +8,12 @@ I don't want to see that comments on the news site, especially in Korea (of cour
 
 ## How to use. 
 in Chrome, 
-open "Options" in popup menu from ublock origin or adblock, adblock plus. 
-insert this address right after check the "import..." of Custom section at the bottom of Filter lists tabb 
+1. Open "Options" in popup menu from ublock origin or adblock, adblock plus. 
+2. Insert this address right after check the "import..." of Custom section at the bottom of Filter lists tab: 
 
 https://raw.githubusercontent.com/seedoff/blockthecomment/master/filter.txt 
 
-and then, you can update filter list right away. 
+and then, you can update filter list right away. it's easy, isn't it? 
 
 feedback always welcome. 
 Thank you. 
